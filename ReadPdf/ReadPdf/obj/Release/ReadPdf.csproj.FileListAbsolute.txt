@@ -1,0 +1,9 @@
+C:\Users\p\source\repos\ReadPdf\ReadPdf\bin\Release\ReadPdf.exe.config
+C:\Users\p\source\repos\ReadPdf\ReadPdf\bin\Release\ReadPdf.exe
+C:\Users\p\source\repos\ReadPdf\ReadPdf\bin\Release\ReadPdf.pdb
+C:\Users\p\source\repos\ReadPdf\ReadPdf\obj\Release\ReadPdf.csproj.CoreCompileInputs.cache
+C:\Users\p\source\repos\ReadPdf\ReadPdf\obj\Release\ReadPdf.exe
+C:\Users\p\source\repos\ReadPdf\ReadPdf\obj\Release\ReadPdf.pdb
+C:\Users\p\source\repos\ReadPdf\ReadPdf\bin\Release\Newtonsoft.Json.dll
+C:\Users\p\source\repos\ReadPdf\ReadPdf\bin\Release\Newtonsoft.Json.xml
+C:\Users\p\source\repos\ReadPdf\ReadPdf\obj\Release\ReadPdf.csproj.CopyComplete
